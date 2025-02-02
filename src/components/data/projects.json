@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce",
+    "imageSrc": "https://5.imimg.com/data5/SELLER/Default/2023/10/352674746/QM/NT/AX/51011312/ecommerce-website-development-service-500x500.jpeg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Flipkart_App"
+  },
+  {
+    "key": 2,
+    "title": "Portfolio",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Personal_Portfolio.git"
+  },
+  {
+    "key": 3,
+    "title": "Recipe App",
+    "imageSrc": "https://play-lh.googleusercontent.com/ywFGPFj6ItqUy_OJ5z2DC3KDhyXLKlkyVsWSQNSiQ1PkzX1eP5SWysEE_T3_MPsQil8P",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Intership_Project/tree/main/RecipeApp"
+  },
+  {
+    "key": 4,
+    "title": "MovieManiac App",
+    "imageSrc": "https://videocdn.cdnpk.net/videos/a1ddc404-5e5c-4895-8f9a-fb86947d85e8/horizontal/thumbnails/small.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/MovieManiacApp"
+  }
+]

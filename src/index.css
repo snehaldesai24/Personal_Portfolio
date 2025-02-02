@@ -1,0 +1,15 @@
+:root {
+  --box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+  --bg-color: rgb(40, 47, 97);
+  --font-size-base: 16px; 
+  --font-size-small: 14px; 
+  --font-size-large: 18px; 
+}
+
+body {
+  background-color: rgb(11, 26, 51);
+  color: white;
+  font-size: var(--font-size-base);
+  margin: 0; 
+  padding: 0; 
+}

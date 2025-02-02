@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "organisation": "Cognizant",
+    "startDate": "December, 2021",
+    "endDate": "July, 2024",
+    "location": "Pune",
+    "experiences": [
+      "Worked on Frontend Developer",
+      "Worked with the verizon Team"
+    ],
+    "imageSrc" :"company/cognizant.png" 
+  },
+  {
+    "id": 2,
+    "role": "Internship",
+    "organisation": "Unified Mentor",
+    "startDate": "September, 2024",
+    "endDate": "October, 2024",
+    "location": "WFH",
+    "experiences": [
+      "Worked on Frontend",
+      "Worked on Projects"
+    ],
+    "imageSrc": "company/unified.png"
+  }
+  
+]
