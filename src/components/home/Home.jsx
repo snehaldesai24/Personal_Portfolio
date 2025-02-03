@@ -8,7 +8,7 @@ function Home(){
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to My Profile",
+        "Welcome to My Portfolio",
         "My Name is Snehal Desai",
         "I'm MEARN Stack Developer",
       ],
