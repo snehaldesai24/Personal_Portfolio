@@ -8,9 +8,9 @@ function Home(){
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to My Profile",
-        "My Name is Snehal Desai",
-        "I'm MEARN Stack Developer",
+        "Welcome to my Data Analytics portfolio!!",
+        "Hi, I’m Snehal Desai",
+        "Data Analyst with 2.8+ years of experience leveraging Power BI, SQL, Python, and Excel to convert complex data into clear insights, build impactful dashboards, and drive informed business decisions.",
       ],
       typeSpeed: 50,
       backSpeed: 50,

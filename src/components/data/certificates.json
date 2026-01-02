@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "certificates/Python with Data Analysis.jpg"
+  },
+  {
+    "id": 2,
+    "imageSrc": "certificates/Powerbi.jpg"
+  },
+  {
+    "id": 3,
+    "imageSrc": "certificates/PowerBI_certificate.png"
+  },
+  {
+    "id": 4,
+    "imageSrc": "certificates/SQL Certificate.png"
+  },
+  {
+    "id": 5,
+    "imageSrc": "certificates/Data Science.png"
+  },
+  {
+    "id": 6,
+    "imageSrc": "certificates/Data_Analyst.png"
+  },
+  {
+    "id": 7,
+    "imageSrc": "certificates/Microsoft_Powerbi.png"
+  },
+  {
+    "id": 8,
+    "imageSrc": "certificates/Excel_Data_Analysis.png"
+  }
+  
+]

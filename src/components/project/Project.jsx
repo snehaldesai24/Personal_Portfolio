@@ -38,7 +38,7 @@ function Project() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Code
+                  View Details
                 </a>
               </div>
             </div>

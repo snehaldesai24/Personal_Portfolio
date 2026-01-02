@@ -1,0 +1,30 @@
+.container-cert {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.cert-card {
+  padding: 10px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.cert-card:hover {
+  transform: scale(1.05);
+}
+
+.cert-img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}

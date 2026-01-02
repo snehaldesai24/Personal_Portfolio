@@ -1,34 +1,50 @@
 [
   {
     "key": 1,
-    "title": "E-Commerce",
-    "imageSrc": "https://5.imimg.com/data5/SELLER/Default/2023/10/352674746/QM/NT/AX/51011312/ecommerce-website-development-service-500x500.jpeg",
-    "description": "This is a project made with complete React js.",
+    "title": "Pizza Sales Analysis",
+    "imageSrc": "https://dqy38fnwh4fqs.cloudfront.net/UHDNGBQRO87BAQBI7MLA8NB6ELL8/projects/pizza-place-sales.webp",
+    "description": "Analyzed sales data using SQL and Python with Power BI dashboards, driving a 28% increase in premium pizza sales and identifying 5 outlets contributing 60% of total revenue.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/snehaldesai24/Flipkart_App"
+    "source": "https://github.com/snehaldesai24/Pizza_Sales_Analysis"
   },
   {
     "key": 2,
-    "title": "Portfolio",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
+    "title": "IPL Performance Analysis(2008-2025)",
+    "imageSrc": "https://media.licdn.com/dms/image/v2/C5112AQFshIhBuJa2Vg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1559125882860?e=2147483647&v=beta&t=LD6XdcrSNSU4tx9a0lq8M06uY-Zyi1fZ3WjDcPSc2HM",
+    "description": "Analyzed multi-season IPL data to identify key players influencing 72% of match outcomes through performance trends.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/snehaldesai24/Personal_Portfolio.git"
+    "source": "https://github.com/snehaldesai24/IPL_Analysis_2008-2025"
   },
   {
     "key": 3,
-    "title": "Recipe App",
-    "imageSrc": "https://play-lh.googleusercontent.com/ywFGPFj6ItqUy_OJ5z2DC3KDhyXLKlkyVsWSQNSiQ1PkzX1eP5SWysEE_T3_MPsQil8P",
-    "description": "This is a project made with complete React js.",
+    "title": "Uber Trip Analysis",
+    "imageSrc": "https://daxg39y63pxwu.cloudfront.net/images/blog/uber-data-analysis-project-using-machine-learning-in-python/uber_data_analysis_project.webp",
+    "description": "Analyzed trip data to uncover booking patterns, peak hours, and surge pricing trends, improving operational efficiency by 15% and resource utilization by 20% through interactive dashboards.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/snehaldesai24/Intership_Project/tree/main/RecipeApp"
+    "source": "https://github.com/snehaldesai24/Uber_Trip_Analysis"
   },
   {
     "key": 4,
-    "title": "MovieManiac App",
-    "imageSrc": "https://videocdn.cdnpk.net/videos/a1ddc404-5e5c-4895-8f9a-fb86947d85e8/horizontal/thumbnails/small.jpg",
-    "description": "This is a project made with complete React js.",
+    "title": "Bank Loan Analysis",
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D5612AQFl2MPN9FMd8w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721177210873?e=2147483647&v=beta&t=e6LrryemAZALmjBxeMnsdc5RY7s_F4xyohAyIY4dvJA",
+    "description": "Evaluated loan approvals and default patterns using dashboards and analysis to support better credit risk assessment and portfolio performance.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/snehaldesai24/MovieManiacApp"
+    "source": "https://github.com/snehaldesai24/Bank_Loan_Analysis"
+  },
+  {
+    "key": 5,
+    "title": "Soccer Players Performance Analysis",
+    "imageSrc": "https://thumbs.dreamstime.com/b/soccer-striker-hits-ball-acrobatic-bicycle-kick-d-rendering-football-scene-competing-football-players-117328863.jpg",
+    "description": "Analyzed player performance and market value using ratings, wages, and nationality data, delivering insights through end-to-end analysis and interactive dashboards.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Soccer_Player_Performance_Analysis"
+  },
+  {
+    "key": 6,
+    "title": "Blinkit Sales Analysis",
+    "imageSrc": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2023/10/Blinkit-fintrackr.jpg",
+    "description": "Analyzed sales performance, customer satisfaction, and inventory distribution to uncover actionable insights and optimization opportunities.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Blinkit_Sales_Analysis"
   }
 ]

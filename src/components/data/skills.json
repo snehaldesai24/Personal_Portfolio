@@ -1,26 +1,22 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Power BI",
+    "imageSrc": "skills/powerbi.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "Redux",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Nodejs",
-    "imageSrc": "skills/node.png"
+    "title": "Statistics",
+    "imageSrc": "skills/statistics.png"
   }
 ]
