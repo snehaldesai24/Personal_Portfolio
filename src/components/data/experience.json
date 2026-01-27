@@ -8,9 +8,7 @@
     "endDate": "July 2024",
     "imageSrc": "company/cognizant.png",
     "experiences": [
-      "Leveraged advanced data analysis techniques to extract actionable insights from large datasets, enabling informed business strategies.",
-      "Developed interactive dashboards using Power BI, SQL, and Python to track KPIs and performance metrics.",
-      "Collaborated with cross-functional teams to optimize business processes and drive data-informed decisions."
+      "Delivered enterprise-grade Power BI dashboards using advanced DAX to enhance reporting accuracy and business visibility. Accelerated data retrieval by optimizing SQL queries, reducing execution time by 30%. Ensured high-quality analytics through Python-based data cleansing, transformation, and validation. Standardized BI components to support scalable and visually consistent dashboards. Streamlined automated reporting workflows to minimize manual effort and improve turnaround time. Collaborated with stakeholders to translate business needs into actionable insights while monitoring KPIs and trends to drive data-informed decisions."
     ]
   }
 ]

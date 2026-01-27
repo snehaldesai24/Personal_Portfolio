@@ -29,7 +29,7 @@ function Home(){
         <div className="container home">
             <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
                 <h1 ref={typedRef}></h1>
-                <a href="/pdf/Snehalcv.pdf"  download="Resume.pdf" className="btn btn-outline-warning">Download Resume</a>
+                <a href="/pdf/SnehalDAcv.pdf"  download="SnehalDAcv.pdf" className="btn btn-outline-warning">Download Resume</a>
             </div>
             <div className="right">
                 <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
