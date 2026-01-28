@@ -1,8 +1,7 @@
-# React + Vite
+# 📊 Data Analyst Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Data Analytics Portfolio**, where data transforms into insights and insights drive impact.
 
-Currently, two official plugins are available:
+🚀 **Live Demo (Netlify):**  
+🔗 https://snehal-portfolios.netlify.app/  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
