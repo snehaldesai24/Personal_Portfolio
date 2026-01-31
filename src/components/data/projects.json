@@ -54,6 +54,14 @@
     "description": "Analyzed sales performance, customer satisfaction, and inventory distribution to uncover actionable insights and optimization opportunities.",
     "demo": "https://www.example.com",
     "source": "https://github.com/snehaldesai24/Blinkit_Sales_Analysis"
+  },
+  {
+    "key": 8,
+    "title": "Credit Card Financial Analysis",
+    "imageSrc": "https://www.shutterstock.com/image-photo/hands-holding-tablet-glowing-bar-260nw-2583638383.jpg",
+    "description": "Built an integrated Power BI dashboard combining transaction and customer data to track spending behavior, risk signals, and improve financial reporting efficiency by 20%.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/snehaldesai24/Credit_Card_Financial_Analysis"
   }
 
 ]
