@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "role": "Associate L1",
+    "company": "INFOTACT SOLUTIONS",
+    "location": "Remote",
+    "startDate": "February 2026",
+    "endDate": "Present",
+    "imageSrc": "company/infotact.png",
+    "experiences": [
+      "Developed Power BI dashboards and performed data analysis using SQL and Python to track KPIs and business performance. Automated reporting processes and improved efficiency and data accuracy."
+    ]
+  },
+  {
+    "id": 2,
     "role": "Software Engineer",
     "company": "Cognizant",
     "location": "Pune",
@@ -11,4 +23,5 @@
       "Delivered enterprise-grade Power BI dashboards using advanced DAX to enhance reporting accuracy and business visibility. Accelerated data retrieval by optimizing SQL queries, reducing execution time by 30%. Ensured high-quality analytics through Python-based data cleansing, transformation, and validation. Standardized BI components to support scalable and visually consistent dashboards. Streamlined automated reporting workflows to minimize manual effort and improve turnaround time. Collaborated with stakeholders to translate business needs into actionable insights while monitoring KPIs and trends to drive data-informed decisions."
     ]
   }
+  
 ]
